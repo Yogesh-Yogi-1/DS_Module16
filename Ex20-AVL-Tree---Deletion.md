@@ -3,7 +3,7 @@
 ## AIM:
 To write a C function to delete an element from an AVL Tree.
 ## Algorithm :
-1. 1. Search for the node to delete starting from the root.
+1. Search for the node to delete starting from the root.
 2. Delete the node using standard BST rules.
 3. Update the height of the affected nodes.
 4. Calculate the balance factor of each updated node.
